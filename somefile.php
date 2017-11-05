@@ -5,8 +5,6 @@ require 'db.php';
 if ( isset($_POST['name']) && isset($_POST['email']) ) {
   $name = trim($_POST['name']);
   $email = trim($_POST['email']);
-  var_dump($name);
-  var_dump($email);
 
   if (empty( $name ) && empty ($email) ) {
     $message = 'you can\'t put empty name and email field';
