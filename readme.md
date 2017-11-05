@@ -4,6 +4,9 @@
 
 Today we have learned more about pdo. Earlier we used only `query` function. Today we have used `prepare`, `execute` and `bindParam` function. So same query we can write in following 3 ways.   
 
+## Notice
+Tomorrow class is ON. So please come one time. Imran Tofael Israt you people will come  early and start crud. 
+
 ### simple query
 ~~~php
 $connection = new PDO($dsn, $user, $password);
