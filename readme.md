@@ -1,6 +1,6 @@
 # [:house: Feni Batch Home Page](http://poloey.github.io/feni)
 
-# Class 24 
+# Class 25 
 
 Today we have learned more about pdo. Earlier we used only `query` function. Today we have used `prepare`, `execute` and `bindParam` function. So same query we can write in following 3 ways.   
 
